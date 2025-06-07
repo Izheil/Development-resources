@@ -89,6 +89,7 @@ These are a list of developer resources that are mostly free to use. It contains
 [Desktop software development](#desktop-software-development)
 
 [Software lists](#software-lists)
+
 [AI](#ai)
 - [Search](#search)
 - [Code](#code)
