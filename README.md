@@ -1,4 +1,8 @@
-# Index
+# Developer resources
+
+These are a list of developer resources that are mostly free to use. It contains software, services, and guides that can help you when learning or when programming.
+
+## Index
 
 [Web software](#web-software)
 - [Animation](#animation)
