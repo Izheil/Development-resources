@@ -403,7 +403,7 @@ Addons for code editors or IDEs.
 #### Debugging
 - [Console ninja](https://console-ninja.com/) -> Shows logs next to the line that printed it, so that you don't have to keep switching between browser and editor.
 
-#### Functionability
+#### Functionality
 - [Thunder client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client) -> Extension that works as a postman alternative.
 - [Local history](https://marketplace.visualstudio.com/items?itemName=xyz.local-history) -> Keeps local history of the files you change, so that you can revert back changes that you didn't commit to a git repository.
 
