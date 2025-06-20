@@ -1,3 +1,4 @@
+
 # Developer resources
 
 These are a list of developer resources that are mostly free to use. It contains software, services, and guides that can help you when learning or when programming.
@@ -511,6 +512,7 @@ Tools focused on AI, or AI-based tools.
 
 ### Code
 - [Pieces](https://pieces.app/) -> AI app that captures info from your IDE and browser to remember your workflow so that you can ask it about it up until 9 months later.
+- [UIzard](https://uizard.io/ai-design/) -> Design the front end using AI.
 
 ### Image edit
 - [DragGAN](https://github.com/XingangPan/DragGAN) -> Allows to modify features of elements of an image by dragging parts of it.
