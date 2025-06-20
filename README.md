@@ -98,9 +98,11 @@ These are a list of developer resources that are mostly free to use. It contains
 - [Video](#video)
 - [Video generation](#video-generation)
 - [Other](#other-1)
+  
 [Guides](#guides)
 - [Tutorial sites](#tutorial-sites)
 - [AWS](#aws)
+- [AI](#ai-1)
 - [Design / Frontend](#design--frontend)
 - [Docker](#docker-1)
 - [GIT](#git)
@@ -121,6 +123,7 @@ Software that is used directly from the web.
 ### Code related
 - [Developer toolbox](https://developertoolbox.app/) -> Programmer tools like UUID generator, JSON to yaml converter, Base64 encoder/decoder, space and tab remover... Similar to IT-Tools web, but with a few less tools.
 - [IT-tools](https://it-tools.tech/) -> Web with a few tools commonly used in programming, like UUID generator, token generator, Base 64 encoder/decoder, JSON to YAML converter, JSON diff, Regex tester, ASCII art generator, List of http status, RSA, AES, among others.
+- [Utils for dev](https://utilsfor.dev/) -> Similar to IT-tools, has multiple developer tools.
 - [Program language translator](https://translate-programming-language.nabettu.com/) -> Translates fragments of code from one programming language to another.
 - [Regex generator](https://regex-generator.olafneumann.org/?sampleText=%7B%22thisIsATest%22%3A%20%22thisIsATestValue%22%7D&flags=i) -> Web that allows you to generate regex code from segments of sample text you input in it.
 - [Regex101](https://regex101.com/) -> Web that allows you to test your regex against strings, and has some guides on how to generate regex for certain things.
@@ -257,9 +260,11 @@ Software that you have to install before you use it.
 
 ### Kubernetes
 - [FreeLens](https://github.com/freelensapp/freelens) -> Open source alternative to Mirantis Lens, and fork of the old Openlens.
+- [Kubewall](https://github.com/kubewall/kubewall) -> Open source kubernetes manager software.
 
 ### Notes
 - [Joplin](https://joplinapp.org/) -> Free and open source note taking application. Notes can be exported as joplin format, or markdown. You can sync your notes using your own external provider like dropbox, sync.com, onedrive, etc...
+- [Notesnook](https://notesnook.com/) -> Open source note taking app similar to Notion. Works offline but you can manage how you sync your notes, and has end-to-end encryption.
 - [Obsidian](https://obsidian.md/) -> Note taking application that allows you to see the connections between notes as a node graph. Has a free tier.
 - [Notion](https://www.notion.com) -> The most popular note taking application that has a free tier.
 - [Appflowy](https://appflowy.com/) -> Open source alternative to notion with a free tier.
@@ -273,6 +278,7 @@ Software that you have to install before you use it.
 ### REST API tools
 - [Postman](https://www.postman.com/) -> The most widely used software for REST API management.
 - [Restfox](https://github.com/flawiddsouza/Restfox) -> Installable version of Restfox. Good free and open source alternative to postman. You can sync collections with git.
+- [Voiden](https://voiden.md/) -> Very modular and programmable alternative to Postman. 
 - [Bruno](https://github.com/usebruno/bruno) -> Open source alternative to postman that allows you to store requests as plain text to be able to use git to sync collections.
 - [Requestly](https://requestly.com/) -> Software to mock responses from a server, or modify http responses.
 - [Swagger editor](https://swagger.io/tools/swagger-editor/download/) -> The offline version of swagger editor to edit swagger/openapi files.
@@ -481,7 +487,8 @@ Sites that hold lists of third-party software based on certain criteria.
 - [Mr. Free tools](https://mrfreetools.com/tools/) -> Tools for developers that are free or at least have a free tier.
 - [Futurepedia](https://www.futurepedia.io/ai-tools) -> List of multiple AI tools.
 - [API Clients](https://github.com/stepci/awesome-api-clients) -> List of alternatives of postman.
-- [OS boxes](https://www.osboxes.org/) -> List of ready-to-use virtual machine images in vdi format. 
+- [OS boxes](https://www.osboxes.org/) -> List of ready-to-use virtual machine images in vdi format.
+- [Openalternative](https://openalternative.co/) -> Alternative to alternativeto.net page but for open source software.
 - [DeGoogle](https://github.com/tycrek/degoogle) -> List of alternatives to google software and other privacy-respecting software. The repository was archived, but a lot of the software is still valid.
 - [Free-for-dev](https://github.com/jixserver/free-for-dev) -> List of software that is free for developers.
 - [Free-for.dev](https://free-for.dev) -> Services that have free tiers for developers.
@@ -538,6 +545,10 @@ Here go any site that might be useful as a guide for general purposes.
 
 ### AWS
 - [AWS With localstack](https://scribe.rip/m/global-identity-2?redirectUrl=https%3A%2F%2Fawstip.com%2Frun-aws-on-your-laptop-introduction-to-localstack-7269c19dedae) -> Tutorial to learn AWS with LocalStack, a docker image that simulates AWS services locally.
+
+### AI
+- [Coding LLMs from 0](https://sebastianraschka.com/blog/2025/coding-llms-from-the-ground-up-a-complete-course.html)
+- [Guide to MCP](https://dev.to/composiodev/the-guide-to-mcp-i-never-had-1ked)
 
 ### Design / Frontend
 - [16 Design tips](https://www.adhamdannaway.com/blog/ui-design/ui-design-tips) -> Design tips.
