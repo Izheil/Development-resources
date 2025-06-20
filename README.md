@@ -547,8 +547,8 @@ Here go any site that might be useful as a guide for general purposes.
 - [AWS With localstack](https://scribe.rip/m/global-identity-2?redirectUrl=https%3A%2F%2Fawstip.com%2Frun-aws-on-your-laptop-introduction-to-localstack-7269c19dedae) -> Tutorial to learn AWS with LocalStack, a docker image that simulates AWS services locally.
 
 ### AI
-- [Coding LLMs from 0](https://sebastianraschka.com/blog/2025/coding-llms-from-the-ground-up-a-complete-course.html)
-- [Guide to MCP](https://dev.to/composiodev/the-guide-to-mcp-i-never-had-1ked)
+- [Coding LLMs from 0](https://sebastianraschka.com/blog/2025/coding-llms-from-the-ground-up-a-complete-course.html) -> Explains how to create LLMs from scratch so that you can understand how they work internally.
+- [Guide to MCP](https://dev.to/composiodev/the-guide-to-mcp-i-never-had-1ked) -> Explains MCP and how to use it.
 
 ### Design / Frontend
 - [16 Design tips](https://www.adhamdannaway.com/blog/ui-design/ui-design-tips) -> Design tips.
