@@ -283,6 +283,7 @@ Software that you have to install before you use it.
 - [Bruno](https://github.com/usebruno/bruno) -> Open source alternative to postman that allows you to store requests as plain text to be able to use git to sync collections.
 - [Requestly](https://requestly.com/) -> Software to mock responses from a server, or modify http responses.
 - [Swagger editor](https://swagger.io/tools/swagger-editor/download/) -> The offline version of swagger editor to edit swagger/openapi files.
+- [Sniffnet](https://sniffnet.net/) -> Allows you to sniff requests made from an application to the outside, along with the bandwith used.
 
 
 ## Frontend
