@@ -42,6 +42,7 @@ These are a list of developer resources that are mostly free to use. It contains
 - [Notes](#notes)
 - [Remote access](#remote-access)
 - [REST API Tools](#rest-api-tools-1)
+- [Other](#other-1)
 
 [Frontend](#frontend)
 - [Components](#components)
@@ -98,7 +99,7 @@ These are a list of developer resources that are mostly free to use. It contains
 - [Image generation](#image-generation)
 - [Video](#video)
 - [Video generation](#video-generation)
-- [Other](#other-1)
+- [Other](#other-2)
   
 [Guides](#guides)
 - [Tutorial sites](#tutorial-sites)
@@ -108,7 +109,7 @@ These are a list of developer resources that are mostly free to use. It contains
 - [Docker](#docker-1)
 - [GIT](#git)
 - [Java](#java)
-- [Other](#other-2)
+- [Other](#other-3)
 
 
 ## Web software
@@ -221,6 +222,7 @@ Services that aren't just a replacement for an offline software, and only make s
 - [Unshort link](https://unshortlink.com/) -> Attempts to give you the original url of a shortened link.
 - [TL;DRLegal](https://www.tldrlegal.com/) -> Summarizes licenses with what you can do and what you can't.
 - [DoesItExist](https://doesitexist.io/) -> Checks if a software like you request already exists.
+- [Flow-like](https://flow-like.com) -> Visual workflow tool to automate tasks. Open source and rust-based.
 
 ## Installable software
 
@@ -248,6 +250,7 @@ Software that you have to install before you use it.
 - [Podman desktop](https://podman-desktop.io/) -> Docker desktop alternative. Uses podman instead of docker, but also supports using docker. It's free and open source.
 - [Orbstack](https://orbstack.dev/) -> Docker desktop alternative that claims to be faster on Mac. Only available for Mac.
 - [DevPod](https://devpod.sh/) -> Codespaces to create [devcontainers](https://containers.dev/) on your cloud or local.
+- [Arcane](https://noted.lol/arcane/) -> Frontend for docker pods from the web. Can be self hosted.
 
 ### File management
 - [Windirstat](https://windirstat.net/) -> Software to check which parts of the disk are wasting more space. Only available for windows.
@@ -284,6 +287,9 @@ Software that you have to install before you use it.
 - [Requestly](https://requestly.com/) -> Software to mock responses from a server, or modify http responses.
 - [Swagger editor](https://swagger.io/tools/swagger-editor/download/) -> The offline version of swagger editor to edit swagger/openapi files.
 - [Sniffnet](https://sniffnet.net/) -> Allows you to sniff requests made from an application to the outside, along with the bandwith used.
+
+### Other
+- [WinBoat](https://github.com/TibixDev/winboat) -> Integrates windows apps more easily in Linux, making the user experience running them better.
 
 
 ## Frontend
@@ -360,6 +366,7 @@ These are resources related to backend services.
 - [Supabase](https://supabase.com/) -> Open source alternative to firebase with a free tier.
 - [PocketBase](https://pocketbase.io/) -> Open source alternative to firebase stored in a file.
 - [Appwrite](https://appwrite.io/) -> Open source alternative to firebase.
+- [Rybbit](https://www.rybbit.io) -> Open source alternative to google analytics.
 
 ### Java libraries
 - [LibOQS](https://github.com/open-quantum-safe/liboqs-java) -> Post-quantum resistant cryptography library.
