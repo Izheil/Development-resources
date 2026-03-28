@@ -259,6 +259,8 @@ Software that you have to install before you use it.
 ### Git clients
 - [Git-fork](https://git-fork.com/) -> Pretty in-depth git GUI. Only for Windows and Mac. Freemium (similar to winrar on their licensing model).
 - [Github desktop for linux](https://github.com/shiftkey/desktop) -> Fork of the official github desktop... but for linux.
+- [Github desktop plus](https://github.com/pol-rivero/github-desktop-plus) -> Another fork of github desktop with some improvements and cross-platform.
+- [SourceGit](https://github.com/sourcegit-scm/sourcegit) -> Similar to Git-fork but has linux support and open source. It uses git-credential-manager to manage accounts, which might be more cumbersome to use.
 - [Gittyup](https://github.com/Murmele/Gittyup) -> Multiplatform and open source git GUI tool.
 - [Sourcetree](https://www.sourcetreeapp.com/) -> Free git client for Windows and Mac.
 
