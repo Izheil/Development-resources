@@ -184,6 +184,7 @@ Services that aren't just a replacement for an offline software, and only make s
 - [Documenso](https://documenso.com/) -> Open source document signing.
 
 ### File management
+- [Filen](https://filen.io/) -> German encrypted cloud storage similar to dropbox, but gives you 10GB worth of space in the free plan.
 - [Sync.com](https://www.sync.com/) -> Canadian cloud storage for your files, as an alternative to dropbox. Encrypts your data by default. Gives 5GB worth of files by default.
 - [Terabox](https://www.terabox.com) -> Free cloud storage for up to 1TB.
 
