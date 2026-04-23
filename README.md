@@ -164,6 +164,7 @@ Software that is used directly from the web.
 ### REST API tools
 - [Restfox](https://restfox.dev/) -> Great online, free, and open source alternative to postman. Supports folder scripts, but doesn't support all postman features (still, works as a local alternative to postman for the most part, and allows sharing files through git). Requires a browser extension to work correctly.
 - [Hoppscotch](https://hoppscotch.io/es) -> Open source alternative to Postman, but lacks folder scripting. You can install it as a PWA. Requires you to use a browser extension to work correctly.
+- [Kivo](https://github.com/DevlogZz/Kivo) -> Open source alternative to Postman which is local-first.
 - [Swagger editor](https://editor.swagger.io/) -> Swagger/Openapi online editor.
 - [Postman-to-swagger](https://metamug.com/util/postman-to-swagger/) -> Converts a postman collection to a swagger one.
 
