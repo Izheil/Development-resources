@@ -5,7 +5,7 @@ These are a list of developer resources that are mostly free to use. It contains
 
 ## Index
 
-[Web software](#web-software)
+🌐 [Web software](#web-software)
 - [Animation](#animation)
 - [Audio](#audio)
 - [Code related](#code-related)
@@ -18,7 +18,7 @@ These are a list of developer resources that are mostly free to use. It contains
 - [REST API Tools](#rest-api-tools)
 - [Security](#security)
 
-[Web services](#web-services)
+☁️ [Web services](#web-services)
 - [AI](#ai)
 - [Code sharing](#code-sharing)
 - [Document signing](#document-signing)
@@ -32,7 +32,7 @@ These are a list of developer resources that are mostly free to use. It contains
 - [Temporary providers](#temporary-providers)
 - [Other](#other)
 
-[Installable software](#installable-software)
+💻 [Installable software](#installable-software)
 - [Animation](#animation-1)
 - [Database access](#database-access)
 - [Design](#design-1)
@@ -46,7 +46,7 @@ These are a list of developer resources that are mostly free to use. It contains
 - [REST API Tools](#rest-api-tools-1)
 - [Other](#other-1)
 
-[Frontend](#frontend)
+🎨 [Frontend](#frontend)
 - [Components](#components)
 - [Code editors](#code-editors)
 - [CSS](#css)
@@ -59,19 +59,19 @@ These are a list of developer resources that are mostly free to use. It contains
 - [Static site hoster](#static-site-hoster)
 - [Telemetry](#telemetry)
 
-[Backend](#backend)
+🗄️ [Backend](#backend)
 - [Backend providers](#backend-providers)
 - [Java libraries](#java-libraries)
 - [Databases](#databases)
 - [Secrets](#secrets)
 
-[Windows privacy tools](#windows-privacy-tools)
+🪟🕵🏼‍♂️ [Windows privacy tools](#windows-privacy-tools)
 
-[Browser extensions](#browser-extensions)
+🌍🧩 [Browser extensions](#browser-extensions)
 - [Privacy](#privacy)
 - [Development](#development)
 
-[Code editor addons](#code-editor-addons)
+👩🏻‍💻🧩 [Code editor addons](#code-editor-addons)
 - [Multi-editor plugins](#multi-editor-plugins)
 - [Visual studio code](#visual-studio-code)
     * [Coding](#coding)
@@ -86,15 +86,15 @@ These are a list of developer resources that are mostly free to use. It contains
     * [Functionality](#functionality-1)
     * [Visual](#visual-1)
 
-[Docker related software](#docker-related-software)
+🐳 [Docker related software](#docker-related-software)
 - [Docker images](#docker-images)
 - [Self-hosting](#self-hosting)
 
-[Desktop software development](#desktop-software-development)
+🖥️🛠️ [Desktop software development](#desktop-software-development)
 
-[Software lists](#software-lists)
+💻📋 [Software lists](#software-lists)
 
-[AI](#ai-1)
+🤖 [AI](#ai-1)
 - [Search](#search)
 - [Code](#code)
 - [Image edit](#image-edit)
@@ -103,7 +103,7 @@ These are a list of developer resources that are mostly free to use. It contains
 - [Video generation](#video-generation)
 - [Other](#other-2)
   
-[Guides](#guides)
+📚 [Guides](#guides)
 - [Tutorial sites](#tutorial-sites)
 - [AWS](#aws)
 - [AI](#ai-1)
@@ -114,7 +114,7 @@ These are a list of developer resources that are mostly free to use. It contains
 - [Other](#other-3)
 
 
-## Web software
+## 🌐 Web software
 
 Software that is used directly from the web.
 
@@ -175,7 +175,7 @@ Software that is used directly from the web.
 - [Virustotal](https://www.virustotal.com/old-browsers/) -> Low-requirements version of virustotal page to upload files to be scanned for malware.
 
 
-## Web services
+## ☁️ Web services
 
 Services that aren't just a replacement for an offline software, and only make sense as an online service.
 
@@ -236,7 +236,7 @@ Services that aren't just a replacement for an offline software, and only make s
 - [DoesItExist](https://doesitexist.io/) -> Checks if a software like you request already exists.
 
 
-## Installable software
+## 💻 Installable software
 
 Software that you have to install before you use it.
 
@@ -306,7 +306,7 @@ Software that you have to install before you use it.
 - [WinBoat](https://github.com/TibixDev/winboat) -> Integrates windows apps more easily in Linux, making the user experience running them better.
 
 
-## Frontend
+## 🎨 Frontend
 
 Here you can find resources related to front-end development, or at least Javascript related.
 
@@ -371,7 +371,7 @@ Here you can find resources related to front-end development, or at least Javasc
 - [Plausible](https://github.com/plausible/analytics) -> Privacy respecting analytics compliant with GDPR. Open source alternative to Google analytics.
 
 
-## Backend
+## 🗄️ Backend
 
 These are resources related to backend services.
 
@@ -394,7 +394,7 @@ These are resources related to backend services.
 - [Infiscal](https://infisical.com/) -> Secrets management with a free tier.
 
 
-## Windows privacy tools
+## 🪟🕵🏼‍♂️ Windows privacy tools
 
 These tools aim to fix a few of the privacy issues of Windows systems.
 
@@ -403,7 +403,7 @@ These tools aim to fix a few of the privacy issues of Windows systems.
 - [W10Privacy](https://www.w10privacy.de/english-home/) -> Another tool to tweak settings of windows 10 and 11. Can uninstall pre-installed apps. 
 
 
-## Browser extensions
+## 🌍🧩 Browser extensions
 
 Browser extensions related to development.
 
@@ -420,7 +420,7 @@ Browser extensions related to development.
 - [Responsive viewer](https://chromewebstore.google.com/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb) -> Allows seeing a page in multiple resolutions. Only for chromium browsers.
 
 
-## Code editor addons
+## 👩🏻‍💻🧩 Code editor addons
 
 Addons for code editors or IDEs.
 
@@ -481,7 +481,7 @@ Addons for code editors or IDEs.
 - [Highlight bracket pair](https://plugins.jetbrains.com/plugin/17320-highlightbracketpair) -> Highlights the bracket pair where the caret is positioned.
 
 
-## Docker related software
+## 🐳 Docker related software
 
 Useful docker image based software.
 
@@ -497,7 +497,7 @@ Useful docker image based software.
 - [Coolify](https://coolify.io/) -> Sames as Dokploy, self hosted alternative to heroku, vercel, etc...
 
 
-## Desktop software development
+## 🖥️🛠️ Desktop software development
 
 Tools for desktop software development
 
@@ -505,7 +505,7 @@ Tools for desktop software development
 - [Tauri](https://tauri.app) -> Rust-based alternative to electron, which uses the OS webview to take size of the applications down. Since it's based on rust, it runs faster than electron applications.
 
 
-## Software lists
+## 💻📋 Software lists
 
 Sites that hold lists of third-party software based on certain criteria.
 
@@ -522,7 +522,7 @@ Sites that hold lists of third-party software based on certain criteria.
 - [Self hosted applications](https://selfh.st/apps/) -> List of self hosted applications.
 
 
-## AI
+## 🤖 AI
 
 Tools focused on AI, or AI-based tools.
 
@@ -558,7 +558,7 @@ Tools focused on AI, or AI-based tools.
 - [Skillflow](https://www.useskillflow.com/) -> AI to teach you about any topic.
 
 
-## Guides
+## 📚 Guides
 
 Here go any site that might be useful as a guide for general purposes.
 
@@ -570,7 +570,7 @@ Here go any site that might be useful as a guide for general purposes.
 - [System design 101](https://bytebytego.com/guides/api-web-development/) -> System design tutorials.
 
 ### AWS
-- [AWS With localstack](https://scribe.rip/m/global-identity-2?redirectUrl=https%3A%2F%2Fawstip.com%2Frun-aws-on-your-laptop-introduction-to-localstack-7269c19dedae) -> Tutorial to learn AWS with LocalStack, a docker image that simulates AWS services locally.
+- [AWS With MiniStack](https://dev.to/nahuel990/getting-started-testing-aws-with-ministack-in-under-10-minutes-5787) -> Tutorial to learn AWS with MiniStack, a docker image that simulates AWS services locally.
 
 ### AI
 - [Coding LLMs from 0](https://sebastianraschka.com/blog/2025/coding-llms-from-the-ground-up-a-complete-course.html) -> Explains how to create LLMs from scratch so that you can understand how they work internally.
