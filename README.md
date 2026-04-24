@@ -478,7 +478,9 @@ Useful docker image based software.
 ### Docker images
 - [WebDB](https://webdb.app/) -> Database IDE image.
 - [Docker-OSX](https://github.com/sickcodes/Docker-OSX) -> Run Mac images on docker.
-- [LocalStack](https://docs.localstack.cloud/getting-started/) -> Run AWS service simulators locally.
+- [FakeCloud](https://github.com/faiscadev/fakecloud) -> LocalStack alternative. Run AWS service simulators locally. 
+- [MiniStack](https://github.com/ministackorg/ministack) -> LocalStack alternative. Run AWS service simulators locally. 
+- [Floci](https://github.com/floci-io/floci) -> LocalStack alternative. Run AWS service simulators locally. 
 
 ### Self-hosting
 - [Dokploy](https://dokploy.com) -> Image to host a CD/CI pipeline on your VPS cloud provider, so that it's easier to deploy other docker images and manage them (think of it as an openshift alternative for self-hosting).
