@@ -19,12 +19,14 @@ These are a list of developer resources that are mostly free to use. It contains
 - [Security](#security)
 
 [Web services](#web-services)
+- [AI](#ai)
 - [Code sharing](#code-sharing)
 - [Document signing](#document-signing)
 - [File management](#file-management)
 - [Feedback](#feedback)
 - [Hosting](#hosting)
 - [Maps](#maps)
+- [Meetings](#meetings)
 - [Mock data](#mock-data-1)
 - [Proxies](#proxies)
 - [Temporary providers](#temporary-providers)
@@ -92,7 +94,7 @@ These are a list of developer resources that are mostly free to use. It contains
 
 [Software lists](#software-lists)
 
-[AI](#ai)
+[AI](#ai-1)
 - [Search](#search)
 - [Code](#code)
 - [Image edit](#image-edit)
@@ -140,6 +142,7 @@ Software that is used directly from the web.
 
 ### Diagrams/Time management
 - [Draw.io](https://app.diagrams.net/) -> Diagram maker web. You can also use it as a PWA, or download the app.
+- [Excalidraw](https://excalidraw.com) -> Para dibujar a mano alzada o crear diagramas rápidos.
 - [Online Gantt](https://www.onlinegantt.com/#/gantt) -> Site to generate free gantt projects, which you can export as .gantt files to reuse later.
 - [Sequence diagrams](https://sequencediagram.org/) -> Site to create free sequence diagrams.
 - [Agantty](https://www.agantty.com/) -> Gantt graph creator with free tier that allows you to create unlimited projects (but needs registering on web). It has a paid tier for teams that allow multiple people to edit the gantt graphs, but if you are only going to use it yourself, you can do with the free one.
@@ -176,6 +179,9 @@ Software that is used directly from the web.
 
 Services that aren't just a replacement for an offline software, and only make sense as an online service.
 
+### AI
+- [Flow-like](https://flow-like.com) -> Alternative to n8n. Visual workflow tool to automate tasks. Open source and rust-based.
+
 ### Code sharing
 - [Codeshare](https://codeshare.io/) -> Share code with someone so that you can both edit it.
 - [SyncFiddle](https://syncfiddle.net/) -> Allows you to share code (for front-end development).
@@ -202,6 +208,10 @@ Services that aren't just a replacement for an offline software, and only make s
 - [Mobility portal](https://mobility.portal.geops.io/world.geops.transit) -> Allows you to see where currently are trains or busses around the world.
 - [Open street maps](https://www.openstreetmap.org) -> Open source maps generated through crowd sourcing.
 
+### Meetings
+- [Jitsi](https://meet.jit.si) -> Service to host meetings. Open source and free.
+- [OSSMeet](https://ossmeet.com/) -> Service to host meetings with a whiteboard. Open source and with a free tier.
+
 ### Mock data
 - [API vault](https://apivault.dev/) -> Public apis to use for mock data.
 - [APIs list](https://apislist.com/) -> Public apis to use for mock data.
@@ -224,7 +234,7 @@ Services that aren't just a replacement for an offline software, and only make s
 - [Unshort link](https://unshortlink.com/) -> Attempts to give you the original url of a shortened link.
 - [TL;DRLegal](https://www.tldrlegal.com/) -> Summarizes licenses with what you can do and what you can't.
 - [DoesItExist](https://doesitexist.io/) -> Checks if a software like you request already exists.
-- [Flow-like](https://flow-like.com) -> Visual workflow tool to automate tasks. Open source and rust-based.
+
 
 ## Installable software
 
